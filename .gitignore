@@ -70,3 +70,10 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+.vsconfig
+Assets/Resources/PerformanceTestRunInfo.json
+Assets/Resources/PerformanceTestRunSettings.json
+Assets/Resources/PerformanceTestRunInfo.json.meta
+Assets/Resources/PerformanceTestRunSettings.json.meta
+/Build_WebGl_Sprunki_Somnia/Build
+/Build_WebGl_Sprunki_Somnia
